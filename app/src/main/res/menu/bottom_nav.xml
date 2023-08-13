@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/historyFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="History"/>
+
+    <item
+        android:id="@+id/emailFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_email_24"
+        android:title="Email"/>
+
+    <item
+        android:id="@+id/logsFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_cloud_24"
+        android:title="Logs"/>
+</menu>
