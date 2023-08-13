@@ -2,34 +2,36 @@
 
 ---
 
-# Calculator Dec-Hex pentru Android
+# Dec-Hex Calculator for Android
 
-Acest proiect reprezintă un calculator robust, destinat platformei Android, care permite utilizatorilor să efectueze operațiuni aritmetice și conversii între numere în format decimal (baza 10) și hexadecimal (baza 16).
+This project represents a robust calculator designed for the Android platform. It allows users to perform arithmetic operations and conversions between numbers in decimal (base 10) and hexadecimal (base 16) formats.
 
-## Funcționalități principale
+## Key Features
 
-1. **Conversie între baze**: Ușor de utilizat pentru conversia rapidă a numerelor între formatul decimal și hexadecimal.
-2. **Operațiuni Aritmetice**: Suport pentru efectuarea operațiunilor de bază, cum ar fi adunarea, scăderea și înmulțirea.
-3. **Istoricul Operațiilor**: Utilizatorii pot vizualiza un istoric complet al calculelor efectuate, stocate într-o bază de date locală SQLite.
-4. **Trimiterea Istoricului**: O caracteristică adițională permite utilizatorilor să trimită istoricul operațiunilor printr-un e-mail.
-5. **Mod Tematic**: Include un switch pentru schimbarea între modurile zi și noapte pentru confort vizual.
-6. **Jurnalizarea Operațiilor**: Păstrează un jurnal detaliat al tuturor operațiunilor efectuate de utilizator.
+1. **Base Conversion**: Intuitive use for quickly converting numbers between decimal and hexadecimal formats.
+2. **Arithmetic Operations**: Supports basic operations such as addition, subtraction, and multiplication.
+3. **Operation History**: Users can view a complete history of performed calculations, stored in a local SQLite database.
+4. **Send History**: An additional feature allowing users to send the operation history via email.
+5. **Theme Mode**: Includes a switch for toggling between day and night modes for visual comfort.
+6. **Operation Logging**: Maintains a detailed log of all operations performed by the user.
 
-## Instalare și utilizare
+## Installation and Usage
 
-1. **Pregătirea**: Asigurați-vă că aveți Android Studio instalat pe mașina dvs.
-2. **Acces**: Clonează repositoriu folosind `git clone [URL-repo]`.
-3. **Deschidere**: Deschideți directorul proiectului în Android Studio.
-4. **Rulare**: Pornește aplicația pe un emulator sau pe un dispozitiv Android real conectat.
+1. **Setup**: Ensure you have Android Studio installed on your machine.
+2. **Access**: Clone the repository using `git clone [URL-repo]`.
+3. **Open**: Launch the project directory in Android Studio.
+4. **Run**: Start the application on an emulator or on a real connected Android device.
 
-## Structura Proiectului
+## Project Structure
 
-- **MainActivity**: Punctul central de intrare în aplicație. Gestionează navigația între diferite fragmente.
-- **HomeFragment**: Fragmentul principal pentru conversii și operații aritmetice.
-- **EmailFragment**: Permite utilizatorilor să trimită istoricul operațiunilor prin e-mail.
-- **HistoryFragment**: Afișează un istoric al operațiunilor efectuate de utilizator.
-- **LogsFragment**: Furnizează un jurnal detaliat al operațiunilor pentru sesiuni anterioare.
-- **MyDBHelper**: Ajută la gestionarea bazei de date SQLite pentru stocarea istoricului operațiunilor.
+- **MainActivity**: The main entry point for the application. Manages navigation between different fragments.
+- **HomeFragment**: The main fragment for conversions and arithmetic operations.
+- **EmailFragment**: Allows users to send the operation history via email.
+- **HistoryFragment**: Displays a history of user-performed operations.
+- **LogsFragment**: Provides a detailed log of operations from previous sessions.
+- **MyDBHelper**: Assists in managing the SQLite database for storing operation history.
+
+
 
 ---
 
