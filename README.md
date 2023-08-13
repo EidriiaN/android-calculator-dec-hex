@@ -32,3 +32,14 @@ Acest proiect reprezintă un calculator robust, destinat platformei Android, car
 - **MyDBHelper**: Ajută la gestionarea bazei de date SQLite pentru stocarea istoricului operațiunilor.
 
 ---
+
+<img src="https://github.com/EidriiaN/android-calculator-dec-hex/assets/104308856/41c220b6-ee98-4508-bf72-4b9996d30146" alt="Alt text aici" style="border: 1px solid black;" width="300"/>
+
+<img src="https://github.com/EidriiaN/android-calculator-dec-hex/assets/104308856/4bca4400-5bf7-48a5-b16c-5e09dc4b7503" alt="Alt text aici" style="border: 1px solid black;" width="300"/>
+
+<img src="https://github.com/EidriiaN/android-calculator-dec-hex/assets/104308856/ab31884a-bb9c-45d5-b8a1-c9b2e3597f2e" alt="Alt text aici" style="border: 1px solid black;" width="300"/>
+
+<img src="https://github.com/EidriiaN/android-calculator-dec-hex/assets/104308856/219065bd-b4d8-4ee7-81b5-7d108cbc2668" alt="Alt text aici" style="border: 1px solid black;" width="300"/>
+
+
+
